@@ -1,0 +1,35 @@
+dependencies:
+  - name: jquery
+    version: 1.9.1
+    src: "htmlwidgets/lib/jquery"
+    script: jquery.min.js
+  - name: kendoui
+    version: 1.0
+    src: "htmlwidgets/lib/kendoui"
+    script:
+      - js/kendo.all.min.js
+      - js/kendo.culture.zh-CN.js
+#      - js/kendo.custom.min.js
+#      - js/kendo.custom.min.js.map
+#      - js/kendo.calendar.min.js
+#      - js/kendo.calendar.min.js.map
+    stylesheet:
+#      - css/kendo.common-material.min.css
+#      - css/kendo.material.min.css
+#      - css/kendo.dataviz.min.css
+#      - css/kendo.dataviz.material.min.css
+      - css/kendo.common.min.css
+#      - css/kendo.moonlight.min.css
+#      - css/kendo.moonlight.mobile.min.css
+#      - css/kendo.default.min.css
+#      - css/kendo.default.mobile.min.css
+      - css/kendo.rtl.min.css
+      - css/kendo.metro.min.css
+      - css/kendo.metro.mobile.min.css
+#      - css/kendo.metro.min.css.map
+#      - css/kendo.metro.mobile.min.css.map
+#      - css/images/kendoui.woff
+#      - css/images/kendoui.ttf
+#      - css/images/kendoui.svg
+#      - css/Metro/sprite_2x.png
+

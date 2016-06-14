@@ -1,0 +1,9 @@
+Package: kendoui
+Title: Kendo UI Widgets
+Version: 0.0.0.9000
+Authors@R: person("Suping", "Zhang", email = "spearsear@gmail.com", role = c("aut", "cre"))
+Description: Make available javascript Kendo UI Core widgets in R
+Depends: R (>= 3.3.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
